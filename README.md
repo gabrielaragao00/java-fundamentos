@@ -4,7 +4,10 @@ Este repositório contém exercícios práticos desenvolvidos durante o meu estu
 
 O foco é consolidar a base da linguagem antes de avançar para Programação Orientada a Objetos (POO).
 
-## Conteúdos estudados
+## Objetivo
+Consolidar a base da linguagem antes de avançar para Programação Orientada a Objetos (POO).
+
+### Conteúdos estudados
 
 - Variáveis e tipos primitivos;
 - Operadores artiméticos e lógicos;
@@ -13,7 +16,7 @@ O foco é consolidar a base da linguagem antes de avançar para Programação Or
 - Arrays;
 - Métodos.
 
-## Estrutura do repositório
+#### Estrutura do repositório
 
 ```text
 java-fundamentos/
