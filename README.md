@@ -1,6 +1,6 @@
 # Java Fundamentos ☕
 
-Este repositório contém exercícios práticos desenvolvidos durante o meu estudo dos fundamentos da linguaegm Java.
+Este repositório contém exercícios práticos desenvolvidos durante o meu estudo dos fundamentos da linguaegem Java.
 
 O foco é consolidar a base da linguagem antes de avançar para Programação Orientada a Objetos (POO).
 
@@ -15,13 +15,12 @@ O foco é consolidar a base da linguagem antes de avançar para Programação Or
 
 ## Estrutura do repositório
 
+```text
 java-fundamentos/
-│
 ├── src/
 │   ├── basico/
 │   ├── condicionais/
 │   ├── loops/
 │   ├── arrays/
 │   └── metodos/
-│
 └── README.md
