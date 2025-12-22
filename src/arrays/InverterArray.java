@@ -1,0 +1,11 @@
+package arrays;
+
+public class InverterArray {
+    public static void main(String[] args) {
+        int [] numeros = new int[]{10, 20, 30, 40, 50};
+
+        for (int i = numeros.length - 1; i >= 0; i--) {
+            System.out.println(numeros[i]);
+        }
+    }
+}
