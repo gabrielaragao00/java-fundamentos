@@ -14,7 +14,8 @@ Consolidar a base da linguagem antes de avançar para Programação Orientada a 
 - Estruturas condicionais ('if', 'else', 'switch');
 - Laçoes de repetição ('for', 'while', 'do-while');
 - Arrays;
-- Métodos.
+- Métodos;
+- Matrizes.
 
 #### Estrutura do repositório
 
