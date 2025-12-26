@@ -25,5 +25,7 @@ java-fundamentos/
 │   ├── condicionais/
 │   ├── loops/
 │   ├── arrays/
-│   └── metodos/
+│   ├── strings/
+│   ├── metodos/
+│   └── matrizes/
 └── README.md
